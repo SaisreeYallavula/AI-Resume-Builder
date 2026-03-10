@@ -1,0 +1,7 @@
+commands to copilot in vscode for modification 
+
+I am making a call to gemini API in handleGenerateData() function and I am getting response. I am storing that response in geminiResponse state. but when displaying the response, it is not in a proper structure. i want to display the response in proper structure and layout. do not change any modifications to the code apart from the changes related to the requirement
+
+
+
+this looks good. i want to improve page UI and look as well. do the needful changes. do not change any code related to the business logic
